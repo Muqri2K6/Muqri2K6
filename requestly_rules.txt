@@ -1,0 +1,1270 @@
+[
+  {
+    "creationDate": 1570896256161,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1570896256161",
+    "name": "get Flash Player back",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "Soon",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://get.adobe.com/flashplayer/"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1570895204122,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1570895204122",
+    "name": "Website Changer",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://malaysia.yahoo.com/?p=us",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://www.google.com"
+      },
+      {
+        "from": "https://malaysia.images.search.yahoo.com/yhs/search;_ylt=AwrwXxRpcF1dUCcAQg4PQgx.;_ylu=X3oDMTB0N2poMXRwBGNvbG8Dc2czBHBvcwMxBHZ0aWQDBHNlYwNwaXZz?p=Dragon+Ball+Fighterz+iCON&type=87fjnhltxzm003319&hspart=omr&hsimp=yhs-001&param1=y6bdVFVIsvuYsgEClQfz8NEPSp4FWG51g5cOG5gIsG5dlUbhR006F8M1tk1wobBj8S4F3FkI2MUUMvqvNE9z52mruRD2kiIjH31u4N6n67AV2UU5XpkObl1%2FVeKH%2BjCbGkrY%2Ftmbrsw%2FO64pDQkDyQza9PnCt3%2F8lSgg113SDZoSFi2St6y6t9nDHCeZU%2F36eiGQnY%2Fip1x%2BIknrfLr9fxgWebSjIgcJI4bN4X6lzaVlFLNIMUxQ2yrJAejpbyxIlyozwU8dTLzO9paJIcQCldFVqlJSxqFpLoj0EI1ZpVQGXL8LmzO9%2F91WLZizHvfmjfPzOCCXJgWGrIBeai9t2Rh0giYMl1Wq6RQESs9RP0%2B1a0KCMVJ44tI9cBLKq7acS8x7aCLP36jID%2BpYKtg%2F3g%3D%3D&ei=UTF-8&fr=yhs-omr-001&guce_referrer=aHR0cHM6Ly9tYWxheXNpYS5zZWFyY2gueWFob28uY29tL3locy9zZWFyY2g_aHNwYXJ0PW9tciZoc2ltcD15aHMtMDAxJnR5cGU9ODdmam5obHR4em0wMDMzMTkmcGFyYW0xPXk2YmRWRlZJc3Z1WXNnRUNsUWZ6OE5FUFNwNEZXRzUxZzVjT0c1Z0lzRzVkbFViaFIwMDZGOE0xdGsxd29iQmo4UzRGM0ZrSTJNVVVNdnF2TkU5ejUybXJ1UkQya2lJakgzMXU0TjZuNjdBVjJVVTVYcGtPYmwxJTJGVmVLSCUyQmpDYkdrclklMkZ0bWJyc3clMkZPNjRwRFFrRHlRemE5UG5DdDMlMkY4bFNnZzExM1NEWm9TRmkyU3Q2eTZ0OW5ESENlWlUlMkYzNmVpR1FuWSUyRmlwMXglMkJJa25yZkxyOWZ4Z1dlYlNqSWdjSkk0Yk40WDZsemFWbEZMTklNVXhRMnlySkFlanBieXhJbHlvendVOGRUTHpPOXBhSkljUUNsZEZWcWxKU3hxRnBMb2owRUkxWnBWUUdYTDhMbXpPOSUyRjkxV0xaaXpIdmZtamZQek9DQ1hKZ1dHcklCZWFpOXQyUmgwZ2lZTWwxV3E2UlFFU3M5UlAwJTJCMWEwS0NNVko0NHRJOWNCTEtxN2FjUzh4N2FDTFAzNmpJRCUyQnBZS3RnJTJGM2clM0QlM0QmcD1EcmFnb24rQmFsbCtGaWdodGVyeitpQ09OJmd1Y2NvdW50ZXI9MQ&guce_referrer_sig=AQAAABW_zO0kUCA2gVFDJ2gqfed9CaygwyZAqzB5jvEf1frcxUg9utC7ylQ6kQDgcbAgQ7V1nSVEOtRMc_o9LvtiQKoITtzWP414OdE3LWf9ouC0vF36NotajPXUHYEdm6F0GXhvAHBFcfqMpBZtGs-cTAlbOqbHDbDTvnCXln89yaIU&guccounter=2",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://www.google.com/search?q=Dragon+Ball+Fighterz+iCON&sxsrf=ACYBGNT11iurN_mUEpB1OPNk0Tk_wHjk9g:1570895254621&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiP14XtiJflAhXFrY8KHQBBDxwQ_AUIEigB&biw=1536&bih=754"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1570815438578,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1570815438578",
+    "name": "changed",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://d3v4eglovri8yt.cloudfront.net/static/65b4061e556ae8af/go/img/videomaker/v3/themes/wb.png",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://web.archive.org/web/20140701052110im_/http://lightspeed.goanimate.com/static/594e2dd8970e70e1/go/img/videomaker/themes/Comedy_World.jpg"
+      },
+      {
+        "from": "<h4 class=\"theme__content__title\">Whiteboard Animation</h4>",
+        "source": {
+          "key": "path",
+          "operator": "Matches",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "<h4 class=\"theme__content__title\">Comedy World</h4>"
+      },
+      {
+        "from": "https://d3v4eglovri8yt.cloudfront.net/static/65b4061e556ae8af/go/img/videomaker/v3/themes/wb.mp4",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://web.archive.org/web/20140701052110im_/http://lightspeed.goanimate.com/static/594e2dd8970e70e1/go/img/videomaker/themes/Comedy_World.jpg"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1570614914537,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1570614914537",
+    "name": "Vyond replacers",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "/videomaker/full/custom",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/videomaker/full/whiteboard"
+      },
+      {
+        "from": "/videomaker/full/ComedyWorld",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/videomaker/full/whiteboard"
+      },
+      {
+        "from": "/app.vyond.com/style",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/ga.vyond.com/videomaker"
+      },
+      {
+        "from": "/app.vyond.com/videos/list",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/ga.vyond.com/yourvideos"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1570598649447,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1570598649447",
+    "name": "Vyond watermark without https (FOR TUTORIAL)",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "/goapi/getMovieInfo/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/goanimate/GetMovieinfo.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1570597644307,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1570597644307",
+    "name": "Old voices without https",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://d2qrjeyl4jwu9j.cloudfront.net/static/ac22213a5191814a/go/voicedemo/voicedemo_eric.mp3",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/eric/eric.mp3"
+      },
+      {
+        "from": "https://d2qrjeyl4jwu9j.cloudfront.net/static/ac22213a5191814a/go/voicedemo/voicedemo_oc_eric.mp3",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/eric/eric.mp3"
+      },
+      {
+        "from": "<voice id=\"David\" desc=\"David\" sex=\"M\" demo-url=\"https://d2qrjeyl4jwu9j.cloudfront.net/static/ac22213a5191814a/go/voicedemo/voicedemo_david.mp3\" country=\"US\" plus=\"N\"/>",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/david/david.mp3"
+      },
+      {
+        "from": "https://d2qrjeyl4jwu9j.cloudfront.net/static/ac22213a5191814a/go/voicedemo/voicedemo_david.mp3",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/david/david.mp3"
+      },
+      {
+        "from": "<voice id=\"eric\" desc=\"Eric\" sex=\"M\" demo-url=\"https://d2qrjeyl4jwu9j.cloudfront.net/static/ac22213a5191814a/go/voicedemo/voicedemo_eric.mp3\" country=\"US\" plus=\"N\"/>",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/eric/eric.mp3"
+      },
+      {
+        "from": "goapi/getTextToSpeechVoices",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "gotest334.esy.es/getTextToSpeechVoices.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Inactive",
+    "version": 2
+  },
+  {
+    "creationDate": 1570548794443,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1570548794443",
+    "name": "Vyond Watermark without https",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "/goapi/getMovieInfo/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/goanimate/GetMovieinfo.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Inactive",
+    "version": 2
+  },
+  {
+    "creationDate": 1570460974611,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1570460974611",
+    "name": "Voices fix",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "/aaa/aaa.mp3",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/alan/alan.mp3"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1570455291110,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1570455291110",
+    "name": "Test ddddd",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://s3.amazonaws.com/fs.goanimate.com/compiled-video/1685/12829685/0QIsvremqxzM/1570455111.mp4?AWSAccessKeyId=AKIAJNLERCJAU3YSRTQQ&Expires=1570462429&Signature=UHi7Upq2W%2F%2FGSBBzHbpAK122zXU%3D",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://s3.amazonaws.com/fs.goanimate.com/compiled-video/1685/12829685/02-xJX9Caxb4/1570455111.mp4?AWSAccessKeyId=AKIAJNLERCJAU3YSRTQQ&Expires=1570462351&Signature=k8Vo0fEsjAeU3tNImmEUC3vDobo%3D"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1569928464638,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1569928464638",
+    "name": "Old voices hack #2",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://ga.vyond.com/goapi/getTextToSpeechVoices/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/getTextToSpeechVoices.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Inactive",
+    "version": 2
+  },
+  {
+    "creationDate": 1569861640300,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1569861640300",
+    "name": "Goanimate For Schools Logo",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://ga.vyond.com/goapi/getMovieInfo/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://freeanimate.xyz/watermarks/goanimate4schools.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Inactive",
+    "version": 2
+  },
+  {
+    "creationDate": 1569847105998,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1569847105998",
+    "name": "Remove bugs",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://p.adsymptotic.com/d/px/?_pid=16218&_psign=0aa5badf92527f7732e22463d6fa4dbc&coopa=0&gdpr=0&gdpr_consent=&_puuid=04e5ad33-bf30-4c0a-abb6-b0f5b10134ed&_umid=749dd0d4db062fca7256505cac8cd3c608457a8ea6617be572fd5e75d400e742",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://voicepacktutoriam.000webhostapp.com/My%20Voices.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Inactive",
+    "version": 2
+  },
+  {
+    "creationDate": 1569845416710,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1569845416710",
+    "name": "Old voices hack",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "http://gotest334.esy.es/getTextToSpeechVoices.xml",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://voicepacktutoriam.000webhostapp.com/My%20Voices.xml"
+      },
+      {
+        "from": "https://d2qrjeyl4jwu9j.cloudfront.net/static/ac22213a5191814a/go/voicedemo/voicedemo_oc_eric.mp3",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://d2qrjeyl4jwu9j.cloudfront.net/static/ac22213a5191814a/go/voicedemo/voicedemo_eric.mp3"
+      },
+      {
+        "from": "https://businessfriendlyhelper.000webhostapp.com/VoiceForgeVoices.xml",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://voicepacktutoriam.000webhostapp.com/My%20Voices.xml"
+      },
+      {
+        "from": "https://ga.vyond.com/goapi/getTextToSpeechVoices/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/getTextToSpeechVoices.xml"
+      },
+      {
+        "from": "https://rareyellowbee.000webhostapp.com/tts.xml",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/getTextToSpeechVoices.xml"
+      },
+      {
+        "from": "https://ga.vyond.com/goapi/getTextToSpeechVoices/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://www.gotest334.esy.es/goanimate/getTextToSpeechVoices2.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Inactive",
+    "version": 2
+  },
+  {
+    "creationDate": 1569409591429,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1569409591429",
+    "name": "Logo Vyond",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://ga.vyond.com/goapi/getMovieInfo/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/pWfFrUh7qAMpfW2-1487177953.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Inactive",
+    "version": 2
+  },
+  {
+    "creationDate": 1569251285047,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1569251285047",
+    "name": "Fix",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://goanimate.com/videomaker/quickvideo/everydaylife",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://goanimate.com/videomaker/quickvideo/everydaylife"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1569238786538,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1569238786538",
+    "name": "Torso, Legs parts",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://ga.vyond.com/goapi/getCCPreMadeCharacters",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/character/cw/parts/adam/pants.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1569224861822,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1569224861822",
+    "name": "NO LONGER WORKS!",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "/.*vyond.com/static/cache/gettheme_infographics_.*/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://d2qrjeyl4jwu9j.cloudfront.net/store/9664a33f663c369a/commoncraft/commoncraft.zip"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Inactive",
+    "version": 2
+  },
+  {
+    "creationDate": 1569063503437,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1569063503437",
+    "name": "Lil Peepz actions",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://d2qrjeyl4jwu9j.cloudfront.net/store/4e75f501cfbf51e3/cc_store/cc2/cc_theme.xml",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/peeps/cc_theme.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1568490873954,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1568490873954",
+    "name": "Vyond all full including old themes",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://ga.vyond.com/goapi/getThemeList/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/TlistGoTest.zip"
+      },
+      {
+        "from": "/aaa/aaa.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/retro/retro.zip"
+      },
+      {
+        "from": "/bbb/bbb.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/action/action.zip"
+      },
+      {
+        "from": "/ccc/ccc.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/animal/animal.zip"
+      },
+      {
+        "from": "/ddd/ddd.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/chibi/chibi.zip"
+      },
+      {
+        "from": "/eee/eee.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/space/space.zip"
+      },
+      {
+        "from": "/fff/fff.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/ninja/ninja.zip"
+      },
+      {
+        "from": "/ggg/ggg.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/ninjaanime/ninjaanime.zip"
+      },
+      {
+        "from": "/hhh/hhh.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/spacecitizen/spacecitizen.zip"
+      },
+      {
+        "from": "/iii/iii.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/business/business.zip"
+      },
+      {
+        "from": "/jjj/jjj.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/vietnam/vietnam.zip"
+      },
+      {
+        "from": "/kkk/kkk.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/politic/politic.zip"
+      },
+      {
+        "from": "/lll/lll.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/christmas/christmas.zip"
+      },
+      {
+        "from": "/mmm/mmm.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/stick/stick.zip"
+      },
+      {
+        "from": "/nnn/nnn.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/monstermsh/monstermsh.zip"
+      },
+      {
+        "from": "/ooo/ooo.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/common/common.zip"
+      },
+      {
+        "from": "https://d3v4eglovri8yt.cloudfront.net/store/3a981f5cb2739137/common/common.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/common.zip"
+      },
+      {
+        "from": "https://d3v4eglovri8yt.cloudfront.net/store/3a981f5cb2739137/common/common.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/common/common.zip"
+      },
+      {
+        "from": "/.*vyond.com/static/cache/gettheme_business_.*/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/action/action.zip"
+      },
+      {
+        "from": "/ooo/ooo.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/common.zip"
+      },
+      {
+        "from": "/ppp/ppp.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/whiteboard/whiteboard.zip"
+      },
+      {
+        "from": "/qqq/qqq.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/commoncraft/commoncraft.zip"
+      },
+      {
+        "from": "/iii/iii/zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/business/business.xml"
+      },
+      {
+        "from": "/iii/iii.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/business/business.zip"
+      },
+      {
+        "from": "/iii/iii.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/business/cc_business.xml"
+      },
+      {
+        "from": "/iii/iii.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://d3v4eglovri8yt.cloudfront.net/store/3a981f5cb2739137/business/business.zip"
+      },
+      {
+        "from": "https://app.vyond.com/goapi/getThemeList/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/TlistGoTest.zip"
+      },
+      {
+        "from": "/.*vyond.com/static/cache/gettheme_business_.*/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://freeanimate.xyz/gotest/goanimate/action.zip"
+      },
+      {
+        "from": "/bbb/bbb.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://freeanimate.xyz/gotest/goanimate/action.zip"
+      },
+      {
+        "from": "https://d3v4eglovri8yt.cloudfront.net/store/3a981f5cb2739137/custom/custom.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://nw7587tech.000webhostapp.com/GoAnimateTestingFiles/CustomVyond.zip"
+      },
+      {
+        "from": "https://d3v4eglovri8yt.cloudfront.net/store/3a981f5cb2739137/business/business.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/business/business.zip"
+      },
+      {
+        "from": "https://d2qrjeyl4jwu9j.cloudfront.net/store/9664a33f663c369a/business/business.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/business/business.xml"
+      },
+      {
+        "from": "https://d3v4eglovri8yt.cloudfront.net/store/9664a33f663c369a/action/action.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://freeanimate.xyz/gotest/goanimate/action.zip"
+      },
+      {
+        "from": " /.*vyond.com/static/cache/gettheme_whiteboard_.*/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://d3v4eglovri8yt.cloudfront.net/store/3a981f5cb2739137/custom/custom.zip"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1568489727154,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1568489727154",
+    "name": "Character creator",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "/charactercreator/family",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/charactercreator/whiteboard"
+      },
+      {
+        "from": "/charactercreator/chibi",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/charactercreator/whiteboard"
+      },
+      {
+        "from": "/charactercreator/cc2",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/charactercreator/whiteboard"
+      },
+      {
+        "from": "/charactercreator/ninja",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/charactercreator/whiteboard"
+      },
+      {
+        "from": "/charactercreator/ninja?",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/charactercreator/whiteboard"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1568489690024,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1568489690024",
+    "name": "old themes",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://ga.vyond.com/goapi/getThemeList/",
+        "source": {
+          "key": "Url",
+          "operator": "Matches",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/TlistGoTest.zip"
+      },
+      {
+        "from": "/ooo/ooo.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/common/common.zip"
+      },
+      {
+        "from": "/.*vyond.com/static/cache/gettheme_whiteboard_.*/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://nw7587tech.000webhostapp.com/GoAnimateTestingFiles/CustomVyond.zip"
+      },
+      {
+        "from": "/ddd/ddd.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/chibi/chibi.zip"
+      },
+      {
+        "from": "/aaa/aaa.zip",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "/retro/retro.zip"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1568489528072,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1568489528072",
+    "name": "Vyond Legacy",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://app.vyond.com/videos/list",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://ga.vyond.com/videomaker"
+      },
+      {
+        "from": "https://goanimate4schools.com",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://ga.vyond.com/videomaker"
+      },
+      {
+        "from": "https://goanimate4schools.com/login",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://vyond.com/login"
+      },
+      {
+        "from": "https://goanimate4schools.com/confirmation/54552ADCB1195",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://ga.vyond.com/signup"
+      },
+      {
+        "from": "https://www.vyond.com/goanimate-for-schools/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://vyond.com"
+      },
+      {
+        "from": "https://goanimate4schools.com/character_creator/whiteboard",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://ga.vyond.com/charactercreator/whiteboard"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1567690450044,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1567690450044",
+    "name": "Vyond Old Assets",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://d3v4eglovri8yt.cloudfront.net/store/3a981f5cb2739137/cc_store/family/cc_theme.xml",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/cc_theme.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1567600028530,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1567600028530",
+    "name": "Remove watermark",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://ga.vyond.com/goapi/getMovieInfo/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://chaseaaaaaaaaaaaaaaa.000webhostapp.com/Watermark.xml"
+      },
+      {
+        "from": "https://ga.vyond.com/goapi/getMovieInfo/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/watermark.xml"
+      },
+      {
+        "from": "https://ga.vyond.com/goapi/getMovieInfo/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/GetMovieinfo.xml"
+      },
+      {
+        "from": "https://ga.vyond.com/goapi/getMovieInfo/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/Watermarks/getMovieInfoVyond.xml"
+      },
+      {
+        "from": "https://app.vyond.com/goapi/getMovieInfo/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "https://chaseaaaaaaaaaaaaaaa.000webhostapp.com/Watermark.xml"
+      },
+      {
+        "from": "https://app.vyond.com/goapi/getMovieInfo/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/watermark.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Inactive",
+    "version": 2
+  },
+  {
+    "creationDate": 1558445957870,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1558445957870",
+    "name": "For the Comedy World Older Asset",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://d3v4eglovri8yt.cloudfront.net/store/3a981f5cb2739137/cc_store/family/cc_theme.xml",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/cc_theme.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Active",
+    "version": 2
+  },
+  {
+    "creationDate": 1558445836792,
+    "description": "",
+    "groupId": "",
+    "id": "Replace_1558445836792",
+    "name": "Remove Vyond Watermark",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "from": "https://ga.vyond.com/goapi/getMovieInfo/",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": ""
+        },
+        "status": "Inactive",
+        "to": "http://gotest334.esy.es/goanimate/GetMovieinfo.xml"
+      }
+    ],
+    "ruleType": "Replace",
+    "status": "Inactive",
+    "version": 2
+  }
+]
